@@ -1,0 +1,15 @@
+C:\Curs\Csharp\Test-Tina.Saceanu\Test-Tina.Saceanu\bin\Debug\Test-Tina.Saceanu.exe.config
+C:\Curs\Csharp\Test-Tina.Saceanu\Test-Tina.Saceanu\bin\Debug\Test-Tina.Saceanu.exe
+C:\Curs\Csharp\Test-Tina.Saceanu\Test-Tina.Saceanu\bin\Debug\Test-Tina.Saceanu.pdb
+C:\Curs\Csharp\Test-Tina.Saceanu\Test-Tina.Saceanu\obj\Debug\Test-Tina.Saceanu.csprojResolveAssemblyReference.cache
+C:\Curs\Csharp\Test-Tina.Saceanu\Test-Tina.Saceanu\obj\Debug\Test-Tina.Saceanu.exe
+C:\Curs\Csharp\Test-Tina.Saceanu\Test-Tina.Saceanu\obj\Debug\Test-Tina.Saceanu.pdb
+C:\Curs\Csharp\Test\Test-Tina.Saceanu\Test-Tina.Saceanu\bin\Debug\Test-Tina.Saceanu.exe.config
+C:\Curs\Csharp\Test\Test-Tina.Saceanu\Test-Tina.Saceanu\obj\Debug\Test-Tina.Saceanu.exe
+C:\Curs\Csharp\Test\Test-Tina.Saceanu\Test-Tina.Saceanu\obj\Debug\Test-Tina.Saceanu.pdb
+C:\Curs\Csharp\Initiation\Test\Test-Tina.Saceanu\Test-Tina.Saceanu\bin\Debug\Test-Tina.Saceanu.exe.config
+C:\Curs\Csharp\Initiation\Test\Test-Tina.Saceanu\Test-Tina.Saceanu\obj\Debug\Test-Tina.Saceanu.exe
+C:\Curs\Csharp\Initiation\Test\Test-Tina.Saceanu\Test-Tina.Saceanu\obj\Debug\Test-Tina.Saceanu.pdb
+C:\Curs\Csharp\Initiation\Test\Test-Tina.Saceanu\Test-Tina.Saceanu\bin\Debug\Test-Tina.Saceanu.exe
+C:\Curs\Csharp\Initiation\Test\Test-Tina.Saceanu\Test-Tina.Saceanu\bin\Debug\Test-Tina.Saceanu.pdb
+C:\Curs\Csharp\Initiation\Test\Test-Tina.Saceanu\Test-Tina.Saceanu\obj\Debug\Test-Tina.Saceanu.csprojResolveAssemblyReference.cache
